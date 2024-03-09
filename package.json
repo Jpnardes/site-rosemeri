@@ -1,0 +1,23 @@
+{
+  "name": "site-rosemeri",
+  "version": "1.0.0",
+  "description": "Site criado por João Pedro Nardes\r este site foi criado para uso comercial de uma empresa de Terapias\r usando html,css e javascript.\r nele foi usado bootstrap para utilização responsiva dos elementos de \r html e css, as animações são baseadas nos conceitos nativos do css e \r agumas utilidades de javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "browser-sync": "^3.0.2",
+    "git": "^0.1.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "hub": "^6.1.2",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1",
+    "sass": "^1.71.1"
+  }
+}
